@@ -1,0 +1,6 @@
+bs4
+faker
+pyyaml
+colorama
+tls_client
+anticaptchaofficial
